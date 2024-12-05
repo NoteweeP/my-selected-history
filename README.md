@@ -2,14 +2,7 @@
 
 ## Index | สารบัญ
 
-### English Documents
-1. [Wat Ratchaburana Crypt Incident (1956)](#wat-ratchaburana-crypt-incident-1956)
-   - [Historical Context](#historical-context)
-   - [The 1956 Discovery](#the-1956-discovery)
-   - [Key Findings](#key-findings)
-   - [Cultural Significance](#cultural-significance)
-   - [Location](#location)
-   - [Reference](#reference)
+
 
 ### เอกสารภาษาไทย
 1. [เหตุการณ์กรุวัดราชบูรณะ (พ.ศ. 2499)](wat-ratchaburana-incident.md)
