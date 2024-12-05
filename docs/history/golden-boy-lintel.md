@@ -38,3 +38,4 @@
 
 ## แหล่งข้อมูล
 - รายการ "ขรรค์ชัย-สุจิตต์ ทอดน่องท่องเที่ยว" ตอน "โกลเด้นบอย" และการเมืองเครือญาตินครวัด นครธม พนมรุ้ง พิมาย
+https://www.youtube.com/watch?v=EsnnjBiPuoE&list=PLXBMcrK2gd5_OrZdVmApLqAdl2tjwJD2j&index=7
